@@ -4,13 +4,13 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ## Índice
 
-- [visão geral](#visão geral)
-  - [Captura de tela](#captura de tela)
+- [visão geral](#visão-geral)
+  - [Captura de tela](#captura-de-tela)
   - [Links](#links)
 - [meu processo](#meu-processo)
-  - [construído com](#construído com)
+  - [construído com](#construído-com)
   - [o que aprendi](#o-que-aprendi)
-  - [desenvolvimento contínuo](#desenvolvimento contínuo)
+  - [desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [autor](#autor)
 
 ## Visão geral
